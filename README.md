@@ -7,7 +7,33 @@ The dataset I am using is Surgery data from VitalDB provide by Department of Ane
 ![VitalDB Dataset](assets/pics/er_diagram_dataSechma.png)
 
 
-core purpose
+# Potential investigating point
+- patients safety
+- the result of the surgery
+- Anesthesia interval (starts and end)
+- lab test statistic
+- heart rate
+- oxygen saturation
+- mortality vs.
+    (starting and ending time)
+    (lab test)
+    (death)
+- Complication vs.
+    (age)
+    
+## visualization idea 1
+- morality rate related to the general patients body vs. morality rates related to general 
+    - core intension, people of high age should not recieve surgery
+
+- surgery on one of the body part is usually more dangerous an other
+
+- Urology surgery on the male
+    - male is over represented 
+
+
+
+
+<!-- core purpose
 - predicting patient outcomes
 - identifying pattern in physiological responses
 - Developing machine learning models for healthcare applications
@@ -24,4 +50,4 @@ core purpose
 
 Dataset info:
 non-cardiac: patients that have surgenry that is not related to the heart disease 
-- emergency or sechuled surgery
+- emergency or sechuled surgery -->
