@@ -30,6 +30,9 @@ The dataset I am using is Surgery data from VitalDB provide by Department of Ane
 - Urology surgery on the male
     - male is over represented 
 
+- visualization idea 1: Open Surgical approach sucks
+- visualization idea 2: 
+
 
 
 
