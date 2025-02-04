@@ -1,6 +1,18 @@
 # Dual-Lens
 Data Visualization that use same dataset to tell a truth and a lie
 
+# Take A Guess !
+
+<p align="center">which one is earnest and which one is deceptive?</p>
+
+---
+![Deceptive Image](assets/pics/deceptive_vis.png)
+
+
+
+
+
+
 # About the dataset
 The dataset I am using is Surgery data from VitalDB provide by Department of Anesthesiology and Pain Medicine, Seoul National University College of Medicine, Seoul, Korea. You can find the data set [here](https://vitaldb.net/dataset/). The dataset is Vital dataset which is a rich biomedical resource that collect real-time physiological data from patients, primarily in clinical and hospital settings. 
 
@@ -34,7 +46,7 @@ The dataset I am using is Surgery data from VitalDB provide by Department of Ane
 - visualization idea 2: 
 
 
-
+Your dataset includes ASA classification as a variable, meaning you can analyze how surgical success correlates with ASA scores
 
 <!-- core purpose
 - predicting patient outcomes
