@@ -5,9 +5,10 @@ Data Visualization that use same dataset to tell a truth and a lie
 
 <p align="center">which one is earnest and which one is deceptive?</p>
 
----
-![Deceptive Image](assets/pics/deceptive_vis.png)
-
+<p align="center">
+    <img src="assets/pics/deceptive_vis.png" alt="Deceptive Image" width="45%">
+    <img src="assets/pics/earnest_vis.png" alt="Earnest Image" width="45%">
+</p>
 
 
 
